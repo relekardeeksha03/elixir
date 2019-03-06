@@ -1,0 +1,8 @@
+split:
+list =[1,2,3,4,5,6,]
+Enum.chunk_every(some_list, 3)
+o/p: [[1,2,3], [4,5,6]]
+Drop list:
+list = [1,2,3]
+Enum.drop list, -4
+o/p: []
